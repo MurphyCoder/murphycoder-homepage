@@ -26,8 +26,7 @@ const Home: NextPage = () => {
             Muy pronto nuevas novedades 🚀...{' '}
           </code>
         </p>
-
-        <button> I'M READY</button>
+        <button>I'M READY</button>
       </main>
 
       <footer className={styles.footer}>
